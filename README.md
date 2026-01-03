@@ -19,7 +19,7 @@ The project utilizes **Postman** and **JavaScript** to test E-commerce workflows
 3. **Test_Execution_Report.png:** Proof of successful execution.
 
 ## 📸 Execution Result
-![Test Report](Test_Execution_Report.png)
+![Test Report](FakeStore_ECommerce_API.png)
 
 ## 🚀 How to Run
 1. Clone or Download this repository.
